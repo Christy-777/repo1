@@ -28,9 +28,8 @@ repository 1
 @new 🖤: IT IS NEW 🇦🇫:
 
 @new 😠: it is new 😧:
-![dog](https://i.pinimg.com/originals/21/59/c4/2159c493313c6084db38bee8e69a4fab.jpg)
-![dog](https://media.istockphoto.com/photos/monkey-theatre-thailand-picture-id458114853?k=20&m=458114853&s=612x612&w=0&h=sUKBhhDrjp6z4mquT8SIqQqwWeb8fkHcfFXiNdV5a_A=)
-![animal](https://tailandfur.com/wp-content/uploads/2014/03/Funny-pictures-of-animals-41.jpg)
+![ka paul](https://c.tenor.com/Gbu1p_Aeo_8AAAAM/monkeyy-kapaul.gif)
+![ka paul](https://c.tenor.com/Dhlgwyy38v8AAAAd/ka-paul-flying-kiss-ka-paul.gif)
 
 - [x] #420
 - [ ] https://github.com/octo-org/octo-repo/issues/740
