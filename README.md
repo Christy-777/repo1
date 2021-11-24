@@ -28,9 +28,7 @@ repository 1
 @new 🖤: IT IS NEW 🇦🇫:
 
 @new 😠: it is new 😧:
-![ka paul](https://c.tenor.com/Gbu1p_Aeo_8AAAAM/monkeyy-kapaul.gif)
-![ka paul](https://c.tenor.com/Dhlgwyy38v8AAAAd/ka-paul-flying-kiss-ka-paul.gif)
-
+![ub](https://static01.nyt.com/images/2021/05/07/arts/07snl-musk-preview1-1/merlin_186856077_a3ba4d89-323a-4c13-80cf-4b9f23c011b4-mediumSquareAt3X.jpg)
 - [x] #420
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
